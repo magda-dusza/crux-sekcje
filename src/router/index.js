@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { getAuth } from 'firebase/auth'
+import { useUserStore } from '../store/user'
 
 const router = createRouter({
     history: createWebHistory(),
@@ -25,7 +25,7 @@ const router = createRouter({
 
 
 router.beforeEach(async (to, from) => {
-    const currentUsr = getAuth().currentUser
+    const currentUsr = await useUserStore().user
     if ( !currentUsr && to.name === 'panel' ) {
       return { name: 'home' }
     }
