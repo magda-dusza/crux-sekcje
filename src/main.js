@@ -5,6 +5,9 @@ import router from './router'
 import { initializeApp } from "firebase/app";
 import { createPinia } from "pinia"
 
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap"
+
 const firebaseConfig = {
   apiKey: "AIzaSyCOEqK9ZZxy4ioqQtSQYe2FX9Fi8hBmCPw",
   authDomain: "crux-sekcje.firebaseapp.com",

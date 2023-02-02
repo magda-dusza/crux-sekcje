@@ -1,0 +1,126 @@
+{
+    "sekcje": [
+        {
+            "id": 0,
+            "intruktor": "Filip Zieliński",
+            "godzinaOd": 18,
+            "godzinaDo": 20,
+            "poziom": 1,
+            "wycenaOd": "X4",
+            "wycenaDo": "X5",
+            "miejsca": 0,
+            "dzienTyg": 1,
+            "color": "#99c2ff"
+        }, {
+            "id": 1,
+            "intruktor": "Joanna Oleksiuk",
+            "godzinaOd": 18,
+            "godzinaDo": 20,
+            "poziom": 1,
+            "wycenaOd": "X2",
+            "wycenaDo": "X4",
+            "miejsca": 0,
+            "dzienTyg": 1,
+            "color": "#00b386"
+        }, {
+            "id": 2,
+            "intruktor": "Joanna Oleksiuk",
+            "godzinaOd": 20,
+            "godzinaDo": 22,
+            "poziom": 1,
+            "wycenaOd": "X2",
+            "wycenaDo": "X4",
+            "miejsca": 0,
+            "dzienTyg": 1,
+            "color": "#00b386"
+        },{
+            "id": 3,
+            "intruktor": "Filip Zieliński",
+            "godzinaOd": 20,
+            "godzinaDo": 22,
+            "poziom": 1,
+            "wycenaOd": "X5",
+            "wycenaDo": "X6+",
+            "miejsca": 1,
+            "dzienTyg": 1,
+            "color": "#99c2ff"
+        }, {
+            "id": 4,
+            "intruktor": "Maciej Zabost",
+            "godzinaOd": 20,
+            "godzinaDo": 22,
+            "poziom": 1,
+            "wycenaOd": "X2",
+            "wycenaDo": "X4",
+            "miejsca": 0,
+            "dzienTyg": 1,
+            "color": "#bbd3ff"
+        }, {
+            "id": 5,
+            "intruktor": "Miłosz Wieczorkowski",
+            "godzinaOd": 16,
+            "godzinaDo": 18,
+            "poziom": 1,
+            "wycenaOd": "X3",
+            "wycenaDo": "X4",
+            "miejsca": 0,
+            "dzienTyg": 2,
+            "color": "#aab3ff"
+        }, {
+            "id": 4,
+            "intruktor": "Maciej Zabost",
+            "godzinaOd": 19,
+            "godzinaDo": 21,
+            "poziom": 1,
+            "wycenaOd": "X3",
+            "wycenaDo": "X5",
+            "miejsca": 0,
+            "dzienTyg": 2,
+            "color": "#bbd3ff"
+        }, {
+            "id": 5,
+            "intruktor": "Miłosz Wieczorkowski",
+            "godzinaOd": 18,
+            "godzinaDo": 20,
+            "poziom": 1,
+            "wycenaOd": "X1",
+            "wycenaDo": "X2",
+            "miejsca": 0,
+            "dzienTyg": 2,
+            "color": "#aab3ff"
+        }, {
+            "id": 3,
+            "intruktor": "Filip Zieliński",
+            "godzinaOd": 18,
+            "godzinaDo": 20,
+            "poziom": 1,
+            "wycenaOd": "X3",
+            "wycenaDo": "X4",
+            "miejsca": 0,
+            "dzienTyg": 2,
+            "color": "#99c2ff"
+        }, {
+            "id": 6,
+            "intruktor": "Marek Balcerski",
+            "godzinaOd": 20,
+            "godzinaDo": 22,
+            "poziom": 1,
+            "wycenaOd": "X3",
+            "wycenaDo": "X4",
+            "miejsca": 1,
+            "dzienTyg": 2,
+            "color": "#00b386"
+        },{
+            "id": 2,
+            "intruktor": "Joanna Oleksiuk",
+            "godzinaOd": 20,
+            "godzinaDo": 22,
+            "poziom": 1,
+            "wycenaOd": "X2",
+            "wycenaDo": "X4",
+            "miejsca": 1,
+            "dzienTyg": 2,
+            "color": "#00b386"
+        }
+    ]
+}

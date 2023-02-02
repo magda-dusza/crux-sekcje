@@ -10,7 +10,6 @@
   import { getAuth, signOut } from 'firebase/auth'
   import { useRouter } from 'vue-router'
   const router = useRouter()
-  // runs after firebase is initialized
   const auth = getAuth();
   const firebaseSignOut = () => {
     signOut(auth)
